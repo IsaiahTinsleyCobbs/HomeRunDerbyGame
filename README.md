@@ -1,5 +1,6 @@
 # HomeRunDerbyGame
-A baseball mini-game built in Unreal Engine using C++ and Blueprint.
+
+Home Run Derby** is a baseball-themed game built using Unreal Engine. This project showcases core gameplay mechanics such as batting timing, pitching challenges, and score tracking — all designed to provide an engaging sports gaming experience.
 
 
 ## Features
@@ -10,11 +11,6 @@ A baseball mini-game built in Unreal Engine using C++ and Blueprint.
 - Modular Unreal Engine project structure
 - Designed with scalability for future game features
 
-## Demo / Screenshots
-
-*(Add images or GIFs here of your gameplay or UI)*
-
-## Getting Started
 
 ### Prerequisites
 
