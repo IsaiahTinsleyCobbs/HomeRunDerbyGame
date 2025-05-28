@@ -1,6 +1,6 @@
 # HomeRunDerbyGame
 
-Home Run Derby** is a baseball-themed game built using Unreal Engine. This project showcases core gameplay mechanics such as batting timing, pitching challenges, and score tracking — all designed to provide an engaging sports gaming experience.
+Home Run Derby** is an in progress baseball-themed game built using Unreal Engine. This project showcases core gameplay mechanics such as batting timing, pitching challenges, and score tracking — all designed to provide an engaging sports gaming experience.
 
 
 ## Features
@@ -23,3 +23,7 @@ Home Run Derby** is a baseball-themed game built using Unreal Engine. This proje
 
    ```bash
    git clone https://github.com/IsaiahTinsleyCobbs/HomeRunDerbyGame.git
+
+   Project Status
+This project is currently a work in progress. Features are still being developed, and improvements are ongoing.  
+Feel free to explore the current functionality and check back for updates!
